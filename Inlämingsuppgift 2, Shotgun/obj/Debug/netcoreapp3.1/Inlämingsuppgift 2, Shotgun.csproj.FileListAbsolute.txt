@@ -1,0 +1,17 @@
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.csproj.AssemblyReference.cache
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift_2__Shotgun.Form1.resources
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift_2__Shotgun.Properties.Resources.resources
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.csproj.GenerateResource.cache
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.AssemblyInfoInputs.cache
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.AssemblyInfo.cs
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.csproj.CoreCompileInputs.cache
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\bin\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.exe
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\bin\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.deps.json
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\bin\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.runtimeconfig.json
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\bin\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.runtimeconfig.dev.json
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\bin\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\bin\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.pdb
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.dll
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.pdb
+C:\Users\46704\source\repos\Inlämingsuppgift 2, Shotgun\Inlämingsuppgift 2, Shotgun\obj\Debug\netcoreapp3.1\Inlämingsuppgift 2, Shotgun.genruntimeconfig.cache
